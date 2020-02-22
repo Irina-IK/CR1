@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 100%;
+}
+	
+header {
+  width: 1200px;
+  height: 60px;
+  color: black;
+}
+
+header h1 {
+  padding: 10px;
+  font-size: 20px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+#content {
+  width: 1200px;
+  min-height: 500px;
+}
+
+footer {
+  width: 1200px;
+  height: 60px;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+.actions {
+  margin-bottom: 1em;
+}
+
+.errors {
+  display: inline-block;
+  color: black;
+}
+
+.errors ul {
+ color: black;
+}
